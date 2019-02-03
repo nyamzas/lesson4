@@ -13,7 +13,7 @@
             echo   '<a href="img/' . $value .'"><img src="img/' . $value .'" alt="" width= "250" height= "290" rel="external"></a>';
                 
         }
-        
+       // Всё сделал. Принцип работы понял. Но JS добавлять не стал
      ?>
     
 </body>
